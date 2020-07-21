@@ -10,6 +10,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,5 +34,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "b7ae8b01710134eb86a6fe1327606397aab0f76e"
+  "gitHead": "ad6b04c4697e9fd408ae7042d73dc51b9803e1a1"
 }

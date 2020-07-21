@@ -1,12 +1,15 @@
 {
-  "name": "@linorabolini/server",
-  "version": "0.0.5",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
-  },
-  "author": "linorabolini",
-  "license": "ISC",
-  "gitHead": "b7ae8b01710134eb86a6fe1327606397aab0f76e"
+    "name": "@linorabolini/server",
+    "version": "0.0.5",
+    "description": "",
+    "main": "index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "author": "linorabolini",
+    "license": "ISC",
+    "gitHead": "ad6b04c4697e9fd408ae7042d73dc51b9803e1a1"
 }
