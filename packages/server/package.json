@@ -1,11 +1,13 @@
 {
   "name": "server",
   "version": "0.0.1",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "cf26b3fb476881971183cfeb021819091f2eaed4"
 }
