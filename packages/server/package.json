@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test/server",
+  "name": "@linorabolini/server",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "linorabolini",
   "license": "ISC",
-  "gitHead": "884e1a7c2ba62c4310b008ae745ee53e66de5884"
+  "gitHead": "b7ae8b01710134eb86a6fe1327606397aab0f76e"
 }
