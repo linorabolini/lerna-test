@@ -1,1 +1,1 @@
-console.log("SERVER INIT!")
+console.log("SERVER INIT yay!")
